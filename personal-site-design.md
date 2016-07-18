@@ -1,0 +1,5 @@
+My sites primary purpose is to present information about myself. Specificically the blogs I have produced during the EDA course, and a portfolio to display more complete apps and sites I develop in the future of the course. This means the website needs to have an index for the blogs, and an index for my porfolio. It needs to be easy to adapt these index's each time I add another item to my blog or portfolio. 
+
+My target audience is fellow students of EDA, and future employers who would like to have a demonstration of my abiltiies and past work. This means that the layout and style of my website are also important as a representation of my ability. 
+
+I would like the experience of reading the blogs to be light, with easily identifiable blog topics displayed in a nice space. I like the way that Peter_k did this on his website (https://ikona23.github.io/blog). Presentability is key. I how Peters blog topics occupy a square space on the page with both a minimalistic icon, and a short title. This is how I would like to design the interface of my site, simple large sections. Easily Identifiable links. 
